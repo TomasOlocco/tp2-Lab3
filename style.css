@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    border-width: 10px;
+    background-color: rgb(241, 241, 241);
+    font-family: 'Montserrat', sans-serif;
+}
+.imagen-1{
+    width: 110px;
+    background-color: rgb(0, 110, 255);
+    padding-top: 10px;
+    padding-right: 1220px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.imagen-2{
+    border-radius: 50%;
+    width: 120px;
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+    top: 100;
+}
+.informacion-personal{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    border: 5px;
+}
+.imagen-3{
+    padding-left: 5px;
+    padding-right: 5px; 
+    border-radius: 15px;
+    width: 520px;
+}
+
+#sobre-mi{
+    border-left: 20px;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    margin-top: -1410px;
+    margin-left: 768px;
+    width: 350px;
+}
+#IngresarUsuario{
+    position: absolute;
+    top: 15;
+    right: 5;
+    background-color: rgb(161, 214, 236);
+    color: blue;
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none;
+}
+
+#btnSeguir{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none;
+    position: absolute;
+    top: 400    ;
+    right: 300;
+}
+
+#informacion-personal{
+    background-color: white;
+    border-left: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-style: none;
+    margin: 100px;
+    margin-right: 200px;
+}
+#informacion {
+    margin-left: 150px;
+    margin-top: -130px   
+}
+#publicacion{
+    background-color: white;
+    border-left: 20px;
+    padding-top: 10px;
+    padding-left: 7px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin: 700px;
+    margin-left: 100px;
+    margin-top: -100px;
+}
+#btnMegusta{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(241, 241, 241);
+    color:rgb(0, 110, 255);
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none;
+}
+#btnEliminarComentario{
+    margin-left: 5px;
+    background-color: rgb(241, 241, 241);
+    color: red;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+}
+#Comentarios{
+    background-color: rgb(241, 241, 241);
+    margin-top: 15px;
+    color: black;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 250px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none;
+}
+#btnComentar{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-style: none;
+}
+#Contadormg{
+    margin-left: 100px;
+    margin-top: -23px;
+}
