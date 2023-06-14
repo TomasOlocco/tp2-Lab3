@@ -1,9 +1,30 @@
+.f1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+.f2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+.f3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    font-weight: lighter;
+}
+.f4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    font-weight: lighter;
+}
 body{
     margin: 0px;
     border-width: 10px;
     background-color: rgb(241, 241, 241);
     font-family: 'Montserrat', sans-serif;
 }
+
 .imagen-1{
     width: 110px;
     background-color: rgb(0, 110, 255);
@@ -15,10 +36,13 @@ body{
 .imagen-2{
     border-radius: 50%;
     width: 120px;
-    border-width: 3px;
-    border-color: blue;
-    border-style: solid;
+    border: solid white 3px;
+    outline: solid 3px #0a61cc;
     top: 100;
+}
+.imagen-2:hover{
+    outline: solid 0px #0a61cc;
+    box-shadow: 0px 0px 4px 5px #0a61cc;
 }
 .informacion-personal{
     padding-top: 30px;
